@@ -2,7 +2,7 @@
 # Francais
 ## Comment utiliser / installer
 
-vous devez exécuter le fichier ´MC_esp.exe´ avec le launcher de Paladium ouvert, il va automatiquement créer le cheat dans les fichiers du jeu 
+vous devez exécuter le fichier ˋMC_esp.exeˋ avec le launcher de Paladium ouvert, il va automatiquement créer le cheat dans les fichiers du jeu 
 
 pour l'utiliser vous faut appuyer sur la touche `^` pour ouvrir le menu de configuration, pour l'activer il faut appuyer sur la touche `ù`
 
@@ -14,7 +14,7 @@ pour l'utiliser vous faut appuyer sur la touche `^` pour ouvrir le menu de confi
 ## How to use/install
 
 
-you must run the file ´MC_esp.exe´ with the Paladium launcher open, it will automatically create the cheat in the game files
+you must run the file ˋMC_esp.exeˋ with the Paladium launcher open, it will automatically create the cheat in the game files
 
 to use it you must press the `^` key to open the configuration menu, to activate it you must press the `ù` key
 
