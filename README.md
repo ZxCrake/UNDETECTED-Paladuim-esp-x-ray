@@ -2,7 +2,7 @@
 # Francais
 ## Comment utiliser / installer
 
-vous devez exécuter l'ESP avec le launcher de Paladium ouvert, il va automatiquement créer le cheat dans les fichiers du jeu 
+vous devez exécuter le fichier ´MC_esp.exe' avec le launcher de Paladium ouvert, il va automatiquement créer le cheat dans les fichiers du jeu 
 
 pour l'utiliser vous faut appuyer sur la touche `^` pour ouvrir le menu de configuration, pour l'activer il faut appuyer sur la touche `ù`
 
@@ -10,16 +10,11 @@ pour l'utiliser vous faut appuyer sur la touche `^` pour ouvrir le menu de confi
 
 >⚠️si un admin vous demande de venir sur TS ou sur discorde il vous suffit d'appuyer sur la touche `=` , et le cheat va automatiquement se désinstaller des fichiers du jeu⚠️
 
-
-<audio controls>
-  <source src="https://directory.audio/fr/effets-sonores/interface-ui/34659-nouvelle-notification-7" type="audio/mpeg">
-</audio>
-
 # Anglais
 ## How to use/install
 
 
-you must run ESP with the Paladium launcher open, it will automatically create the cheat in the game files
+you must run the file 'MC_esp.exe' with the Paladium launcher open, it will automatically create the cheat in the game files
 
 to use it you must press the `^` key to open the configuration menu, to activate it you must press the `ù` key
 
