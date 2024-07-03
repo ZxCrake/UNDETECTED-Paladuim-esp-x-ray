@@ -10,9 +10,9 @@ pour l'utiliser vous faut appuyer sur la touche `^` pour ouvrir le menu de confi
 
 >⚠️si un admin vous demande de venir sur TS ou sur discorde il vous suffit d'appuyer sur la touche `=` , et le cheat va automatiquement se désinstaller des fichiers du jeu⚠️
 
+
 <audio controls>
-  <source src="https://github.com/ZxCrake/UNDETECTED-Paladuim-esp-x-ray/blob/main/New%20Notification.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+  <source src="https://directory.audio/fr/effets-sonores/interface-ui/34659-nouvelle-notification-7" type="audio/mpeg">
 </audio>
 
 # Anglais
