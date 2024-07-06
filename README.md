@@ -29,3 +29,11 @@ to use it you must press the `^` key to open the configuration menu, to activate
 
 
 ![Logo](https://discord.paladium-pvp.fr/assets/images/logo.png)
+
+
+#paladiumcheat
+#minecraft
+#cheatminecraft
+#minecraftcheat
+#minecraft-cheat
+#cheat-minecraft
